@@ -1,3 +1,3 @@
 console.log("Hello world");
 
-console.log("Hello from master");
+console.log("I'm working on the register form");
